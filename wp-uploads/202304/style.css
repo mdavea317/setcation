@@ -1,0 +1,137 @@
+body {
+  background-image: url('back1.jpg');
+}
+table {
+    border-collapse: collapse;
+    background: white;
+    color: black;
+}
+td:hover {
+  background-color: yellow;
+}
+.Cal h1{
+    text-align: center;
+}
+.img {
+
+}
+th, td { 
+    font-weight: bold;
+}
+.jan h2{
+    text-align: center;
+    color: orange;
+}
+.Reg1 h2{
+    text-align: center;
+}
+.Reg1 p{
+    text-align: center;
+}
+.Reg2 h2{
+    text-align: center;
+}
+.Reg2 p{
+    text-align: center;
+}
+.March h2{
+    text-align: center;
+    color: orange;
+}
+.April h2{
+    text-align: center;
+    color: orange;
+}
+.Reg3 h2{
+    text-align: center;
+}
+.Reg3 p{
+    text-align: center;
+}
+.Special1 h2{
+    text-align: center;
+}
+.Special1 p{
+    text-align: center;
+}
+.May h2{
+    text-align: center;
+    color: orange;
+}
+.Reg4 h2{
+    text-align: center;
+}
+.Reg4 p{
+    text-align: center;
+}
+.June h2 {
+    text-align: center;
+    color: orange;
+}
+.Reg5 h2{
+    text-align: center;
+}
+.Reg5 p{
+    text-align: center;
+}
+.July h2{
+    text-align: center;
+    color: orange;
+}
+.Aug h2{
+     text-align: center;
+    color: orange;
+}
+.Reg6 h2{
+text-align: center;
+}
+.Reg6 p{
+    text-align: center;
+}
+.Special2 h2{
+    text-align: center;
+}
+.Special2 p{
+    text-align: center;
+}
+.Sep h2{
+    text-align: center;
+    color: orange;
+}
+.Oct h2{
+    text-align: center;
+    color: orange;
+}
+.Nov h2{
+    text-align: center;
+    color: orange;
+}
+.Reg7 h2{
+    text-align: center;
+}
+.Reg7 p{
+    text-align: center;
+}
+.Special3 h2{
+    text-align: center;
+}
+.Special3 p{
+text-align: center;
+}
+.Dec h2{
+    text-align: center;
+    color: orange;
+}
+.Reg8 h2{
+    text-align: center;
+}
+.Reg8 p{
+    text-align: center; 
+}
+.Special4 h2{
+    text-align: center;
+}
+.Special4 p{
+text-align: center;
+color: whitesmoke;
+}
